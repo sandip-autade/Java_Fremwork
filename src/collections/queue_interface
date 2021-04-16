@@ -1,0 +1,27 @@
+
+
+
+		Queue Interface :
+		
+			Java Queue interface orders the element in FIFO(First In First Out) manner. In FIFO, 
+			first element is removed first and last element is removed at last
+			
+
+
+		PriorityQueue class : 
+		
+			The PriorityQueue class provides the facility of using queue. But it does not orders the elements in FIFO manner. 
+			It inherits AbstractQueue class.
+			
+			
+
+ 		Deque Interface :
+ 		
+			Java Deque Interface is a linear collection that supports element insertion and removal at both ends. 
+			Deque is an acronym for "double ended queue".
+			
+		
+		ArrayDeque class :
+		
+			The ArrayDeque class provides the facility of using deque and resizable-array. 
+			It inherits AbstractCollection class and implements the Deque interface.	

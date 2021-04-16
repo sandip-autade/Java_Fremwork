@@ -1,0 +1,6 @@
+    Method overloading achived by 
+    
+           1) changing no. of arguments
+           2) changing data type of arguments
+           
+    Note : method overloading is not possible by changing the return type of the method only because of ambiguity       

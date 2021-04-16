@@ -1,0 +1,26 @@
+
+
+
+       Interface  :  An interface in Java is a blueprint of a class. It has static constants and abstract methods.
+       
+       
+	       			Java Interface also represents the IS-A relationship.
+	
+					It cannot be instantiated just like the abstract class.
+					
+					Since Java 8, we can have default and static methods in an interface.
+					
+					Since Java 9, we can have private methods in an interface.
+					
+					
+					
+		Why use Java interface ?
+		
+		
+			There are mainly three reasons to use interface :
+					
+					It is used to achieve abstraction.
+					
+					By interface, we can support the functionality of multiple inheritance.
+					
+					It can be used to achieve loose coupling.			

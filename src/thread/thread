@@ -1,0 +1,31 @@
+
+
+		What is Thread in java :
+		
+			A thread is a lightweight subprocess, the smallest unit of processing. It is a separate path of execution.
+		
+			Threads are independent. If there occurs exception in one thread, 
+			it doesn't affect other threads. It uses a shared memory area.
+			
+			
+			
+		Creating a Thread:
+		
+		
+			There are two ways to create a thread.
+			
+		1)	It can be created by extending the Thread class and overriding its run() method :	
+			
+					public class Main extends Thread {
+					  public void run() {
+					    System.out.println("This code is running in a thread");
+					  }
+					}
+					
+		2)  Another way to create a thread is to implement the Runnable interface :
+		
+					public class Main implements Runnable {
+					  public void run() {
+					    System.out.println("This code is running in a thread");
+					  }
+					}			

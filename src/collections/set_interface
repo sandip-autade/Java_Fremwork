@@ -1,0 +1,33 @@
+
+
+		Difference between HashSet and LinkedHashSet
+		
+			HashSet is an unordered & unsorted collection of the data set, whereas the LinkedHashSet is an ordered 
+			and sorted collection of HashSet.
+			
+			HashSet does not provide any method to maintain the insertion order. Comparatively, 
+			LinkedHashSet maintains the insertion order of the elements.
+			
+			The HashSet and LinkedHashSet both implement the Set interface.
+			
+			HashSet is slightly faster than the LinkedHashSet. But both provide almost similar performance,
+			
+			Both provide o(1) complicity for inserting, removing, retrieving the object.
+			
+			Both the HashSet and LinkedHashSet allows only one null objects.
+			
+			The LinkedHashSet requires more memory than the HashSet.
+			
+			
+			
+		Tree Set
+		
+			Java TreeSet class contains unique elements only like HashSet.
+			
+			Java TreeSet class access and retrieval times are quiet fast.
+			
+			Java TreeSet class doesn't allow null element.
+			
+			Java TreeSet class is non synchronized.
+			
+			Java TreeSet class maintains ascending order.	

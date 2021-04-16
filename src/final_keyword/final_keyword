@@ -1,0 +1,10 @@
+
+		The final keyword in java is used to restrict the user. 
+		
+			we can use final keyword in :
+		
+				1)	variable      ->  we cant change value
+				2)	method		  ->  we cant overried it
+				3)	class		  ->  we cant inherite it  (  exends  )
+				
+				
